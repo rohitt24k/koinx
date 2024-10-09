@@ -1,0 +1,49 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Logs
+logs
+*.log
+*.log.*
+
+# Environment variables
+.env
+
+# TypeScript
+*.tsbuildinfo
+
+# Build directory
+dist/
+build/
+
+# MacOS
+.DS_Store
+
+# Coverage directory
+coverage/
+
+# Debug logs
+*.pid
+*.pid.lock
+
+# Temporary files
+*.swp
+*.swo
+
+# IDE/Editor
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+*.iml
+*.log
+
+# Package locks
+package-lock.json
+yarn.lock
+
+# Miscellaneous
+*.log
